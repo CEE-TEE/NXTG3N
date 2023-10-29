@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ceetee.nxtg3n.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ceetee.nxtg3n.MyBundle
 
 class MyApplicationService {
 
